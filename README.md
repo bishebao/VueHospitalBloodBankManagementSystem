@@ -1,0 +1,2 @@
+# VueHospitalBloodBankManagementSystem
+ 基于SpringBoot Vue医院血库管理系统
